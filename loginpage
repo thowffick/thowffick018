@@ -1,5 +1,6 @@
 create.text.txt 
-thowffick
-22CE018
-civil
-21yr
+n=67
+l=['even','odd']
+print(l[n%2])
+
+
